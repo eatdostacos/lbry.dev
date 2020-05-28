@@ -1,3 +1,6 @@
+<?php
+    include("/content/header.php");
+?>
 <!DOCTYPE html>
 <html>
 <meta charset="UTF-8">
@@ -7,13 +10,6 @@
   <head>
     <title>lbry.dev</title>
   </head>
-<nav class="w3-bar w3-green">
-  <h1> &nbsp<img src="/lbrylogo.jpg" style="width:30px;height:30px;"> lbry.dev</h1>
-  <a href="" class="w3-button w3-bar-item">Home</a>
-  <a href="comingsoon1" class="w3-button w3-bar-item">comingsoon1</a>
-  <a href="comingsoon2" class="w3-button w3-bar-item">comingsoon2</a>
-  <a href="about" class="w3-button w3-bar-item">About</a>
-</nav>
     <p>A website for the testing of LBRY Development. This is very new and will hopefully be updated and improved soon.</p>
   <div>
   <p>This website is not affiliated with LBRY Inc.</p>
