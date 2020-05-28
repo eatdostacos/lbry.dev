@@ -1,3 +1,3 @@
 <?php NavActions::setNavUri('/about') ?>
 
-This is testing the about page.
+<h1>About<h1>
